@@ -1,0 +1,53 @@
+Node,Clade,Genus,First occurrence lower bound (Ma),First occurence upper bound (Ma),Calibration type,reference,Genus,Next occurrence lower bound (Ma),Next occurence upper bound (Ma),Calibration type,reference,note
+MRCA Diatoms,diatoms,First diatoms,121,120,crown,"Nikolaev et al., 2001",Next diatoms,113,107,next occurence,"Harwood and Gersonde, 1990",
+MRCA Corethron,corethron,Corethron,75,72,stem,"Hajos and Stradner, 1975",Corethron,72,66,next occurence,Harwood 1988 ,"next occurence published as Skeletonema subantractica. Both stem and next occurence should likely be transfered to Praecorethron, an extinct sister lineage to modern Corethron"
+MRCA Stephanopyxis + Paralia,melosiroid,Amblypyrgus (Stephanopyxis),113,107,stem,"Gersonde and Harwood, 1990",Stephanopyxis,75,72,crown,"Davies and Kemp, 2016",
+MRCA Stephanopyxis + Paralia,melosiroid,Archepyrgus (Aulacoseira),113,107,stem,"Gersonde and Harwood, 1990",Archepyrgus,86,83,next occurence,"Witkowski et al., 2011",stem of Aulacoseira
+MRCA Stephanopyxis + Paralia,melosiroid,Hyalodiscus,83,80,crown,"Witkowski et al., 2011",Hyalodiscus,66,56,next occurence,Chambers 1997,
+MRCA Stephanopyxis + Paralia,melosiroid,Paralia,95,84,crown,"Tapia and Harwood, 2002",Paralia,86,83,next occurence,"Witkowski et al., 2011",
+MRCA Stephanopyxis + Paralia,melosiroid,Praeparalia (Ellerbeckia),121,120,stem,"Nikolaev et al., 2001",,,,,,this is the only occurence of Praeparalia in the Cretaceous
+MRCA Coscinodiscus + Actynoptychus,coscinodiscoid,Actinoptychus,100,94,stem,Zalat 2013,Actinoptychus,75,72,crown,"Witkowski et al., 2011",
+MRCA Coscinodiscus + Actynoptychus,coscinodiscoid,Arachnoidiscus,83,72,crown,"Sims et al., 2006",Arachnoidiscus,72,66,next occurence,Chambers 1997,
+MRCA Coscinodiscus + Actynoptychus,coscinodiscoid,Aulacodiscus,83,80,crown,"Witkowski et al., 2011",Aulacodiscus,72,66,next occurence,Chambers 1997,
+MRCA Coscinodiscus + Actynoptychus,coscinodiscoid,Stellarima,84,82,crown,"Shimada et al., 2022",Stellarima,75,72,next occurence,"Davies and Kemp, 2016",
+MRCA Coscinodiscus + Actynoptychus,coscinodiscoid,Coscinodiscus,86,83,crown,"Witkowski et al., 2011",Coscinodiscus,70,66,next occurence,"Nikolaev et al., 2001","Witkowski et al., 2011 doesnt give the pic, but Kuba is a good taxonomist so we can give him a benefit"
+MRCA Proboscia,proboscia,Proboscia,83,72,stem,Jordan and Ito 2002,Proboscia,70,66,next occurence,"Davies and Kemp, 2016",both occurances are for stem 
+MRCA Rhizosolenia + Pseudosolenia,rhizosolenia,Rhizosolenia,75,72,stem,"Davies and Kemp, 2016",Rhizosolenia,72,66,next occurence,Harwood 1988,both occurances are for stem 
+MRCA Amphipentas + Odontella,amphipentas/odontella,Auliscus,70,66,crown,Hanna 1927,Auliscus,66,61,next occurence,Harwood 1988,
+MRCA Biddulphiella + Stoermeria,biddulphiella/stoermeria,Biddulphia,83,72,stem,"Sims et al., 2006",Biddulphia,72,66,next occurence,Chambers 1997,this is sister lineage to extant Biddulphia and now the genus is called Bidulphiella
+MRCA Chaetoceros + Hemiaulus,chaetoceroid,Chaetoceros,75,72,crown,"Davies and Kemp, 2016",Chaetoceros,70,66,next occurence,"Davies and Kemp, 2016",
+MRCA Chaetoceros + Hemiaulus,chaetoceroid,Hemiaulus,100,94,stem,Zalat 2013,Hemiaulus,86,83,next occurence,"Witkowski et al., 2011",Cretaceous Hemiaulus is an extinct sister lineage to modern Hemiaulus
+MRCA Eunotogramma + Thalassiosirales,thalassiosiroid,Eunotogramma,83,80,stem,"Chambers, 1997",Eunotogramma,75,72,next occurence,Harwood 1988,Cretaceous Eunotogramma is a definitive sister lineage to modern Euonotogramma; very little shared features
+MRCA Eunotogramma + Thalassiosirales,thalassiosiroid,Praethalassiosiropsis ,121,120,stem,"Nikolaev et al., 2001",Praethalassiosiropsis,113,107,next occurence,"Gersonde and Harwood, 1990",
+MRCA Eunotogramma + Thalassiosirales,thalassiosiroid,Thalassiosiropsis,83,72,,Alverson 2014 & refs therein,,,,,,Teo: Set the range of the first occurrence to the range of Campanian: 83.6-72. Was: 75
+MRCA Eunotogramma + Thalassiosirales,thalassiosiroid,Shionodiscus,7.2,5.3,,Alverson 2014 & refs therein,,,,,,Teo: Set the range of the first occurrence to the range of Messinian: 7.2-5.3. Was 6.15
+MRCA Eunotogramma + Thalassiosirales,thalassiosiroid,Cyclostephanos,11.6,5.3,,Alverson 2014 & refs therein,,,,,,Teo: Set the range of the first occurrence to the range of the Late Miocene: 11.6 - 5.7. Was 5
+MRCA Eunotogramma + Thalassiosirales,thalassiosiroid,Stephanodiscus,11.6,5.3,,Alverson 2014 & refs therein,,,,,,Teo: Set the range of the first occurrence to the range of the Late Miocene: 11.6 - 5.7. Was 7
+MRCA Eunotogramma + Thalassiosirales,thalassiosiroid,Discostella,16,11.6,,Alverson 2014 & refs therein,,,,,,Teo: Set the range of the first occurrence to the range of the Middle Miocene: 16 - 11.6. Was 10
+MRCA Pennates,pennates,Sceptroneis,84,83,crown,"Shimada et al., 2022",Sceptroneis,75,72,next occurence,Chambers 1997,
+MRCA Diatoma + Tabellaria,diatomoids,Tetracyclus,28,23,crown,"Oreshkina et al., 2020",,,,,,
+MRCA Diatoma + Tabellaria,diatomoids,Diatoma,38,34,crown,"Benson et al., 2012",,,,,,
+MRCA Diatoma + Tabellaria,diatomoids,Tabellaria,10,5,crown,"Ognjanova-Rumoenova and Vass, 1988",,,,,,
+MRCS Staurosira spp,staurosira,Staurosira,38,34,crown,"Benson et al., 2012",,,,,,
+Synedra,synedra,"Synedra -- not on tree, use for mrca of ulnaria + synedropsis?",38,34,crown,"Benson et al., 2012",,,,,,
+MRCA Licmoproha + Podocystis,licmophora,Licmophora,10,5,crown,"Ognjanova-Rumoenova and Vass, 1988",,,,,,
+MRCA Planothidium + Cocconeis,cocconeids,Cocconeis,35,32,crown,Edwards 1991 (Oamaru),,,,,,
+MRCA Planothidium + Cocconeis,cocconeids,Planothidium,38,34,crown,"Benson et al., 2012",,,,,,
+MRCA Eunotia + Actinella,eunotiids,Eunotia,35,32,crown,Edwards 1991 (Oamaru),,,,,,
+MRCA Mastogloia,mastogloia,Mastogloia,35,32,crown,Edwards 1991 (Oamaru),,,,,,
+MRCA Navicula spp,navicula,Navicula,35,32,crown,Edwards 1991 (Oamaru),,,,,,
+MRCA Geissleria + Gomphonema,cymbelloid,Encyonema,23,11,crown,"Zalat, 2018",,,,,,
+MRCA Geissleria + Gomphonema,cymbelloid,Cymbella,28,23,crown,"Aleksandrova et al., 2017",,,,,,
+MRCA Geissleria + Gomphonema,cymbelloid,Placoneis,28,23,crown,"Oreshkina et al., 2020",,,,,,
+MRCA Geissleria + Gomphonema,cymbelloid,Gomphonema,38,34,crown,"Benson et al., 2012",,,,,,
+MRCA Diploneis + Sellaphora,sellaphorids,Pinnularia,35,32,crown,Edwards 1991 (Oamaru),,,,,,
+MRCA Diploneis + Sellaphora,sellaphorids,Diploneis,37,34,crown,"Droop, 1998",,,,,,
+MRCA Diploneis + Sellaphora,sellaphorids,Sellaphora,10,5,crown,"Ognjanova-Rumoenova and Vass, 1988",,,,,,
+MRCA Iconella + Protokeelia,surirelloids,Campylodiscus,10,5,crown,"Ognjanova-Rumoenova and Vass, 1988",,,,,,
+MRCA Iconella + Protokeelia,surirelloids,Epthemia,10,5,crown,"Ognjanova-Rumoenova and Vass, 1988",,,,,,
+MRCA Iconella + Protokeelia,surirelloids,Surirella,23,11,crown,"Zalat, 2018",,,,,,
+MRCA Stauroneis + Craticula,stauroneids,Stauroneis,10,5,crown,"Ognjanova-Rumoenova and Vass, 1988",,,,,,
+MRCA Stauroneis + Craticula,stauroneids,Frustulia,38,34,crown,"Benson et al., 2012",,,,,,
+MRCA Bacillaria + Pseudo-nitzschia,bacillariales,Hantzschia,10,5,crown,"Ognjanova-Rumoenova and Vass, 1988",,,,,,
+Lyrella,lyrella,Lyrella -- not on tree. very old. reliable?,56,56,crown,"Oreshkina and Radionova, 2014",,,,,,
+MRCA Amblyamphora + Oxyamphora,amlyamphora,Amblyamphora,35,32,crown,Edwards 1991 (Oamaru),,,,,,

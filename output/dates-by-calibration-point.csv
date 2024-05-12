@@ -1,0 +1,235 @@
+calibration_name,upper,lower,clade,bracket_1,bracket_2
+archaegladiopsis,120,121,diatom_clade,Corethron hystrix CCMP308,Fistulifera solaris
+gladiopsis,120,121,diatom_clade,Corethron hystrix CCMP308,Fistulifera solaris
+rynchopyxis,120,121,diatom_clade,Corethron hystrix CCMP308,Fistulifera solaris
+basilicostephanus,120,121,diatom_clade,Corethron hystrix CCMP308,Fistulifera solaris
+gladius,120,121,diatom_clade,Corethron hystrix CCMP308,Fistulifera solaris
+ancylopyrgus,120,121,diatom_clade,Corethron hystrix CCMP308,Fistulifera solaris
+dunia,120,121,diatom_clade,Corethron hystrix CCMP308,Fistulifera solaris
+kreagra,120,121,diatom_clade,Corethron hystrix CCMP308,Fistulifera solaris
+microorbis,120,121,diatom_clade,Corethron hystrix CCMP308,Fistulifera solaris
+corethron,72,75,diatom_clade,Corethron hystrix CCMP308,Fistulifera solaris
+proboscia,72,83,diatom_clade,Corethron hystrix CCMP308,Fistulifera solaris
+amblypyrgus,107,113,diatom_clade,Corethron hystrix CCMP308,Fistulifera solaris
+archepyrgus,107,113,diatom_clade,Corethron hystrix CCMP308,Fistulifera solaris
+hyalodiscus,80,83,diatom_clade,Corethron hystrix CCMP308,Fistulifera solaris
+paralia,84,95,diatom_clade,Corethron hystrix CCMP308,Fistulifera solaris
+praeparalia,120,121,diatom_clade,Corethron hystrix CCMP308,Fistulifera solaris
+rhizosolenia,72,75,diatom_clade,Corethron hystrix CCMP308,Fistulifera solaris
+arachnoidiscus,72,83,diatom_clade,Corethron hystrix CCMP308,Fistulifera solaris
+actinoptychus,94,100,diatom_clade,Corethron hystrix CCMP308,Fistulifera solaris
+aulacodiscus,80,83,diatom_clade,Corethron hystrix CCMP308,Fistulifera solaris
+stellarima,82,84,diatom_clade,Corethron hystrix CCMP308,Fistulifera solaris
+coscinodiscus,83,86,diatom_clade,Corethron hystrix CCMP308,Fistulifera solaris
+biddulphiella,72,83,diatom_clade,Corethron hystrix CCMP308,Fistulifera solaris
+amphipentas,66,70,diatom_clade,Corethron hystrix CCMP308,Fistulifera solaris
+chaetoceros,72,75,diatom_clade,Corethron hystrix CCMP308,Fistulifera solaris
+hemiaulus,94,100,diatom_clade,Corethron hystrix CCMP308,Fistulifera solaris
+eunotogramma,80,83,diatom_clade,Corethron hystrix CCMP308,Fistulifera solaris
+praethalassiosiropsis,120,121,diatom_clade,Corethron hystrix CCMP308,Fistulifera solaris
+thalassiosiropsis,72,83,diatom_clade,Corethron hystrix CCMP308,Fistulifera solaris
+shionodiscus,5.3,7.2,diatom_clade,Corethron hystrix CCMP308,Fistulifera solaris
+cyclostephanos,5.3,11.6,diatom_clade,Corethron hystrix CCMP308,Fistulifera solaris
+stephanodiscus,5.3,11.6,diatom_clade,Corethron hystrix CCMP308,Fistulifera solaris
+discostella,11.6,16,diatom_clade,Corethron hystrix CCMP308,Fistulifera solaris
+sceptroneis,83,84,diatom_clade,Corethron hystrix CCMP308,Fistulifera solaris
+synedra,34,38,diatom_clade,Corethron hystrix CCMP308,Fistulifera solaris
+licmophora,5,10,diatom_clade,Corethron hystrix CCMP308,Fistulifera solaris
+staurosira,34,38,diatom_clade,Corethron hystrix CCMP308,Fistulifera solaris
+diatoma,34,38,diatom_clade,Corethron hystrix CCMP308,Fistulifera solaris
+tetracyclus,23,28,diatom_clade,Corethron hystrix CCMP308,Fistulifera solaris
+tabellaria,5,10,diatom_clade,Corethron hystrix CCMP308,Fistulifera solaris
+lyrella,56,56,diatom_clade,Corethron hystrix CCMP308,Fistulifera solaris
+eunotia,32,35,diatom_clade,Corethron hystrix CCMP308,Fistulifera solaris
+hantzschia,5,10,diatom_clade,Corethron hystrix CCMP308,Fistulifera solaris
+amblyamphora,32,35,diatom_clade,Corethron hystrix CCMP308,Fistulifera solaris
+navicula,32,35,diatom_clade,Corethron hystrix CCMP308,Fistulifera solaris
+diploneis,34,37,diatom_clade,Corethron hystrix CCMP308,Fistulifera solaris
+frustulia,34,38,diatom_clade,Corethron hystrix CCMP308,Fistulifera solaris
+stauroneis,5,10,diatom_clade,Corethron hystrix CCMP308,Fistulifera solaris
+mastogloia,32,35,diatom_clade,Corethron hystrix CCMP308,Fistulifera solaris
+cocconeis,32,35,diatom_clade,Corethron hystrix CCMP308,Fistulifera solaris
+planothidium,34,38,diatom_clade,Corethron hystrix CCMP308,Fistulifera solaris
+encyonema,11,23,diatom_clade,Corethron hystrix CCMP308,Fistulifera solaris
+cymbella,23,28,diatom_clade,Corethron hystrix CCMP308,Fistulifera solaris
+placoneis,23,28,diatom_clade,Corethron hystrix CCMP308,Fistulifera solaris
+gomphonema,34,38,diatom_clade,Corethron hystrix CCMP308,Fistulifera solaris
+campylodiscus,5,10,diatom_clade,Corethron hystrix CCMP308,Fistulifera solaris
+epthemia,5,10,diatom_clade,Corethron hystrix CCMP308,Fistulifera solaris
+surirella,11,23,diatom_clade,Corethron hystrix CCMP308,Fistulifera solaris
+pinnularia,32,35,diatom_clade,Corethron hystrix CCMP308,Fistulifera solaris
+sellaphora,5,10,diatom_clade,Corethron hystrix CCMP308,Fistulifera solaris
+proboscia,72,83,proboscia_paralia_clade,Proboscia alata PI−D3,Paralia ehrmanii ECT2AJA−128
+amblypyrgus,107,113,proboscia_paralia_clade,Proboscia alata PI−D3,Paralia ehrmanii ECT2AJA−128
+archepyrgus,107,113,proboscia_paralia_clade,Proboscia alata PI−D3,Paralia ehrmanii ECT2AJA−128
+hyalodiscus,80,83,proboscia_paralia_clade,Proboscia alata PI−D3,Paralia ehrmanii ECT2AJA−128
+paralia,84,95,proboscia_paralia_clade,Proboscia alata PI−D3,Paralia ehrmanii ECT2AJA−128
+praeparalia,120,121,proboscia_paralia_clade,Proboscia alata PI−D3,Paralia ehrmanii ECT2AJA−128
+amblypyrgus,107,113,paralia_aulacoseira_clade,Aulacoseira aff. ambigua AJA048−43,Paralia ehrmanii ECT2AJA−128
+archepyrgus,107,113,paralia_aulacoseira_clade,Aulacoseira aff. ambigua AJA048−43,Paralia ehrmanii ECT2AJA−128
+hyalodiscus,80,83,paralia_aulacoseira_clade,Aulacoseira aff. ambigua AJA048−43,Paralia ehrmanii ECT2AJA−128
+paralia,84,95,paralia_aulacoseira_clade,Aulacoseira aff. ambigua AJA048−43,Paralia ehrmanii ECT2AJA−128
+praeparalia,120,121,paralia_aulacoseira_clade,Aulacoseira aff. ambigua AJA048−43,Paralia ehrmanii ECT2AJA−128
+paralia,84,95,paralia_clade,Paralia longispina ECT2AJA−097,Paralia ehrmanii ECT2AJA−128
+praeparalia,120,121,paralia_clade,Paralia longispina ECT2AJA−097,Paralia ehrmanii ECT2AJA−128
+rhizosolenia,72,75,coscinodiscus_rhizosolenia_clade,Rhizosolenia imbricata ECT2AJA−126,Coscinodiscus wailesii MMETSP
+arachnoidiscus,72,83,coscinodiscus_rhizosolenia_clade,Rhizosolenia imbricata ECT2AJA−126,Coscinodiscus wailesii MMETSP
+actinoptychus,94,100,coscinodiscus_rhizosolenia_clade,Rhizosolenia imbricata ECT2AJA−126,Coscinodiscus wailesii MMETSP
+aulacodiscus,80,83,coscinodiscus_rhizosolenia_clade,Rhizosolenia imbricata ECT2AJA−126,Coscinodiscus wailesii MMETSP
+stellarima,82,84,coscinodiscus_rhizosolenia_clade,Rhizosolenia imbricata ECT2AJA−126,Coscinodiscus wailesii MMETSP
+coscinodiscus,83,86,coscinodiscus_rhizosolenia_clade,Rhizosolenia imbricata ECT2AJA−126,Coscinodiscus wailesii MMETSP
+arachnoidiscus,72,83,coscinodiscus_actinocyclus_clade,Actinoptychus spendens ECT2AJA−030,Coscinodiscus wailesii MMETSP
+actinoptychus,94,100,coscinodiscus_actinocyclus_clade,Actinoptychus spendens ECT2AJA−030,Coscinodiscus wailesii MMETSP
+aulacodiscus,80,83,coscinodiscus_actinocyclus_clade,Actinoptychus spendens ECT2AJA−030,Coscinodiscus wailesii MMETSP
+stellarima,82,84,coscinodiscus_actinocyclus_clade,Actinoptychus spendens ECT2AJA−030,Coscinodiscus wailesii MMETSP
+coscinodiscus,83,86,coscinodiscus_actinocyclus_clade,Actinoptychus spendens ECT2AJA−030,Coscinodiscus wailesii MMETSP
+aulacodiscus,80,83,coscinodiscus_aulacodiscus_clade,Stellarima microtrias CCMP1471,Coscinodiscus wailesii MMETSP
+stellarima,82,84,coscinodiscus_aulacodiscus_clade,Stellarima microtrias CCMP1471,Coscinodiscus wailesii MMETSP
+coscinodiscus,83,86,coscinodiscus_aulacodiscus_clade,Stellarima microtrias CCMP1471,Coscinodiscus wailesii MMETSP
+biddulphiella,72,83,mediophytes_pennates_clade,Ditylum brightwellii Pop1 SS4,Fistulifera solaris
+amphipentas,66,70,mediophytes_pennates_clade,Ditylum brightwellii Pop1 SS4,Fistulifera solaris
+chaetoceros,72,75,mediophytes_pennates_clade,Ditylum brightwellii Pop1 SS4,Fistulifera solaris
+hemiaulus,94,100,mediophytes_pennates_clade,Ditylum brightwellii Pop1 SS4,Fistulifera solaris
+eunotogramma,80,83,mediophytes_pennates_clade,Ditylum brightwellii Pop1 SS4,Fistulifera solaris
+praethalassiosiropsis,120,121,mediophytes_pennates_clade,Ditylum brightwellii Pop1 SS4,Fistulifera solaris
+thalassiosiropsis,72,83,mediophytes_pennates_clade,Ditylum brightwellii Pop1 SS4,Fistulifera solaris
+shionodiscus,5.3,7.2,mediophytes_pennates_clade,Ditylum brightwellii Pop1 SS4,Fistulifera solaris
+cyclostephanos,5.3,11.6,mediophytes_pennates_clade,Ditylum brightwellii Pop1 SS4,Fistulifera solaris
+stephanodiscus,5.3,11.6,mediophytes_pennates_clade,Ditylum brightwellii Pop1 SS4,Fistulifera solaris
+discostella,11.6,16,mediophytes_pennates_clade,Ditylum brightwellii Pop1 SS4,Fistulifera solaris
+sceptroneis,83,84,mediophytes_pennates_clade,Ditylum brightwellii Pop1 SS4,Fistulifera solaris
+synedra,34,38,mediophytes_pennates_clade,Ditylum brightwellii Pop1 SS4,Fistulifera solaris
+licmophora,5,10,mediophytes_pennates_clade,Ditylum brightwellii Pop1 SS4,Fistulifera solaris
+staurosira,34,38,mediophytes_pennates_clade,Ditylum brightwellii Pop1 SS4,Fistulifera solaris
+diatoma,34,38,mediophytes_pennates_clade,Ditylum brightwellii Pop1 SS4,Fistulifera solaris
+tetracyclus,23,28,mediophytes_pennates_clade,Ditylum brightwellii Pop1 SS4,Fistulifera solaris
+tabellaria,5,10,mediophytes_pennates_clade,Ditylum brightwellii Pop1 SS4,Fistulifera solaris
+lyrella,56,56,mediophytes_pennates_clade,Ditylum brightwellii Pop1 SS4,Fistulifera solaris
+eunotia,32,35,mediophytes_pennates_clade,Ditylum brightwellii Pop1 SS4,Fistulifera solaris
+hantzschia,5,10,mediophytes_pennates_clade,Ditylum brightwellii Pop1 SS4,Fistulifera solaris
+amblyamphora,32,35,mediophytes_pennates_clade,Ditylum brightwellii Pop1 SS4,Fistulifera solaris
+navicula,32,35,mediophytes_pennates_clade,Ditylum brightwellii Pop1 SS4,Fistulifera solaris
+diploneis,34,37,mediophytes_pennates_clade,Ditylum brightwellii Pop1 SS4,Fistulifera solaris
+frustulia,34,38,mediophytes_pennates_clade,Ditylum brightwellii Pop1 SS4,Fistulifera solaris
+stauroneis,5,10,mediophytes_pennates_clade,Ditylum brightwellii Pop1 SS4,Fistulifera solaris
+mastogloia,32,35,mediophytes_pennates_clade,Ditylum brightwellii Pop1 SS4,Fistulifera solaris
+cocconeis,32,35,mediophytes_pennates_clade,Ditylum brightwellii Pop1 SS4,Fistulifera solaris
+planothidium,34,38,mediophytes_pennates_clade,Ditylum brightwellii Pop1 SS4,Fistulifera solaris
+encyonema,11,23,mediophytes_pennates_clade,Ditylum brightwellii Pop1 SS4,Fistulifera solaris
+cymbella,23,28,mediophytes_pennates_clade,Ditylum brightwellii Pop1 SS4,Fistulifera solaris
+placoneis,23,28,mediophytes_pennates_clade,Ditylum brightwellii Pop1 SS4,Fistulifera solaris
+gomphonema,34,38,mediophytes_pennates_clade,Ditylum brightwellii Pop1 SS4,Fistulifera solaris
+campylodiscus,5,10,mediophytes_pennates_clade,Ditylum brightwellii Pop1 SS4,Fistulifera solaris
+epthemia,5,10,mediophytes_pennates_clade,Ditylum brightwellii Pop1 SS4,Fistulifera solaris
+surirella,11,23,mediophytes_pennates_clade,Ditylum brightwellii Pop1 SS4,Fistulifera solaris
+pinnularia,32,35,mediophytes_pennates_clade,Ditylum brightwellii Pop1 SS4,Fistulifera solaris
+sellaphora,5,10,mediophytes_pennates_clade,Ditylum brightwellii Pop1 SS4,Fistulifera solaris
+amphipentas,66,70,mediophytes_sans_biddulphiella_clade,Ditylum brightwellii Pop1 SS4,Odontella aurita 1302−5
+chaetoceros,72,75,mediophytes_sans_biddulphiella_clade,Ditylum brightwellii Pop1 SS4,Odontella aurita 1302−5
+hemiaulus,94,100,mediophytes_sans_biddulphiella_clade,Ditylum brightwellii Pop1 SS4,Odontella aurita 1302−5
+eunotogramma,80,83,mediophytes_sans_biddulphiella_clade,Ditylum brightwellii Pop1 SS4,Odontella aurita 1302−5
+praethalassiosiropsis,120,121,mediophytes_sans_biddulphiella_clade,Ditylum brightwellii Pop1 SS4,Odontella aurita 1302−5
+thalassiosiropsis,72,83,mediophytes_sans_biddulphiella_clade,Ditylum brightwellii Pop1 SS4,Odontella aurita 1302−5
+shionodiscus,5.3,7.2,mediophytes_sans_biddulphiella_clade,Ditylum brightwellii Pop1 SS4,Odontella aurita 1302−5
+cyclostephanos,5.3,11.6,mediophytes_sans_biddulphiella_clade,Ditylum brightwellii Pop1 SS4,Odontella aurita 1302−5
+stephanodiscus,5.3,11.6,mediophytes_sans_biddulphiella_clade,Ditylum brightwellii Pop1 SS4,Odontella aurita 1302−5
+discostella,11.6,16,mediophytes_sans_biddulphiella_clade,Ditylum brightwellii Pop1 SS4,Odontella aurita 1302−5
+chaetoceros,72,75,chaetoceros_hemiaulus_clade,Hemiaulus sinensis 24i10−1A,Chaetoceros sp. GSL56
+hemiaulus,94,100,chaetoceros_hemiaulus_clade,Hemiaulus sinensis 24i10−1A,Chaetoceros sp. GSL56
+praethalassiosiropsis,120,121,thalassiosirales_clade,Porosira pseudodenticulata CCMP1433,Thalassiosira punctigera Tpunct2005C2
+thalassiosiropsis,72,83,thalassiosirales_clade,Porosira pseudodenticulata CCMP1433,Thalassiosira punctigera Tpunct2005C2
+shionodiscus,5.3,7.2,thalassiosirales_clade,Porosira pseudodenticulata CCMP1433,Thalassiosira punctigera Tpunct2005C2
+cyclostephanos,5.3,11.6,thalassiosirales_clade,Porosira pseudodenticulata CCMP1433,Thalassiosira punctigera Tpunct2005C2
+stephanodiscus,5.3,11.6,thalassiosirales_clade,Porosira pseudodenticulata CCMP1433,Thalassiosira punctigera Tpunct2005C2
+discostella,11.6,16,thalassiosirales_clade,Porosira pseudodenticulata CCMP1433,Thalassiosira punctigera Tpunct2005C2
+cyclostephanos,5.3,11.6,discostela_cyclostephanos_clade,Cyclostephanos sp. AJA066−13,Discostella pseudostelligera AJA075−4
+stephanodiscus,5.3,11.6,discostela_cyclostephanos_clade,Cyclostephanos sp. AJA066−13,Discostella pseudostelligera AJA075−4
+discostella,11.6,16,discostela_cyclostephanos_clade,Cyclostephanos sp. AJA066−13,Discostella pseudostelligera AJA075−4
+sceptroneis,83,84,pennate_clade,Striatella unipunctata CCMP2910,Fistulifera solaris
+synedra,34,38,pennate_clade,Striatella unipunctata CCMP2910,Fistulifera solaris
+licmophora,5,10,pennate_clade,Striatella unipunctata CCMP2910,Fistulifera solaris
+staurosira,34,38,pennate_clade,Striatella unipunctata CCMP2910,Fistulifera solaris
+diatoma,34,38,pennate_clade,Striatella unipunctata CCMP2910,Fistulifera solaris
+tetracyclus,23,28,pennate_clade,Striatella unipunctata CCMP2910,Fistulifera solaris
+tabellaria,5,10,pennate_clade,Striatella unipunctata CCMP2910,Fistulifera solaris
+lyrella,56,56,pennate_clade,Striatella unipunctata CCMP2910,Fistulifera solaris
+eunotia,32,35,pennate_clade,Striatella unipunctata CCMP2910,Fistulifera solaris
+hantzschia,5,10,pennate_clade,Striatella unipunctata CCMP2910,Fistulifera solaris
+amblyamphora,32,35,pennate_clade,Striatella unipunctata CCMP2910,Fistulifera solaris
+navicula,32,35,pennate_clade,Striatella unipunctata CCMP2910,Fistulifera solaris
+diploneis,34,37,pennate_clade,Striatella unipunctata CCMP2910,Fistulifera solaris
+frustulia,34,38,pennate_clade,Striatella unipunctata CCMP2910,Fistulifera solaris
+stauroneis,5,10,pennate_clade,Striatella unipunctata CCMP2910,Fistulifera solaris
+mastogloia,32,35,pennate_clade,Striatella unipunctata CCMP2910,Fistulifera solaris
+cocconeis,32,35,pennate_clade,Striatella unipunctata CCMP2910,Fistulifera solaris
+planothidium,34,38,pennate_clade,Striatella unipunctata CCMP2910,Fistulifera solaris
+encyonema,11,23,pennate_clade,Striatella unipunctata CCMP2910,Fistulifera solaris
+cymbella,23,28,pennate_clade,Striatella unipunctata CCMP2910,Fistulifera solaris
+placoneis,23,28,pennate_clade,Striatella unipunctata CCMP2910,Fistulifera solaris
+gomphonema,34,38,pennate_clade,Striatella unipunctata CCMP2910,Fistulifera solaris
+campylodiscus,5,10,pennate_clade,Striatella unipunctata CCMP2910,Fistulifera solaris
+epthemia,5,10,pennate_clade,Striatella unipunctata CCMP2910,Fistulifera solaris
+surirella,11,23,pennate_clade,Striatella unipunctata CCMP2910,Fistulifera solaris
+pinnularia,32,35,pennate_clade,Striatella unipunctata CCMP2910,Fistulifera solaris
+sellaphora,5,10,pennate_clade,Striatella unipunctata CCMP2910,Fistulifera solaris
+synedra,34,38,araphid_3_clade,Fragilariforma virescens FD291,Synedropsis sp. CCMP2745
+licmophora,5,10,araphid_3_clade,Fragilariforma virescens FD291,Synedropsis sp. CCMP2745
+staurosira,34,38,araphid_3_clade,Fragilariforma virescens FD291,Synedropsis sp. CCMP2745
+diatoma,34,38,araphid_3_clade,Fragilariforma virescens FD291,Synedropsis sp. CCMP2745
+tetracyclus,23,28,araphid_3_clade,Fragilariforma virescens FD291,Synedropsis sp. CCMP2745
+tabellaria,5,10,araphid_3_clade,Fragilariforma virescens FD291,Synedropsis sp. CCMP2745
+diatoma,34,38,diatoma_clade,Diatoma tenuis AJA075−18,Tabellaria flocculosa AJA135−1
+tetracyclus,23,28,diatoma_clade,Diatoma tenuis AJA075−18,Tabellaria flocculosa AJA135−1
+tabellaria,5,10,diatoma_clade,Diatoma tenuis AJA075−18,Tabellaria flocculosa AJA135−1
+lyrella,56,56,raphid_clade,Eunotia naegelii FD354,Fistulifera solaris
+eunotia,32,35,raphid_clade,Eunotia naegelii FD354,Fistulifera solaris
+hantzschia,5,10,raphid_clade,Eunotia naegelii FD354,Fistulifera solaris
+amblyamphora,32,35,raphid_clade,Eunotia naegelii FD354,Fistulifera solaris
+navicula,32,35,raphid_clade,Eunotia naegelii FD354,Fistulifera solaris
+diploneis,34,37,raphid_clade,Eunotia naegelii FD354,Fistulifera solaris
+frustulia,34,38,raphid_clade,Eunotia naegelii FD354,Fistulifera solaris
+stauroneis,5,10,raphid_clade,Eunotia naegelii FD354,Fistulifera solaris
+mastogloia,32,35,raphid_clade,Eunotia naegelii FD354,Fistulifera solaris
+cocconeis,32,35,raphid_clade,Eunotia naegelii FD354,Fistulifera solaris
+planothidium,34,38,raphid_clade,Eunotia naegelii FD354,Fistulifera solaris
+encyonema,11,23,raphid_clade,Eunotia naegelii FD354,Fistulifera solaris
+cymbella,23,28,raphid_clade,Eunotia naegelii FD354,Fistulifera solaris
+placoneis,23,28,raphid_clade,Eunotia naegelii FD354,Fistulifera solaris
+gomphonema,34,38,raphid_clade,Eunotia naegelii FD354,Fistulifera solaris
+campylodiscus,5,10,raphid_clade,Eunotia naegelii FD354,Fistulifera solaris
+epthemia,5,10,raphid_clade,Eunotia naegelii FD354,Fistulifera solaris
+surirella,11,23,raphid_clade,Eunotia naegelii FD354,Fistulifera solaris
+pinnularia,32,35,raphid_clade,Eunotia naegelii FD354,Fistulifera solaris
+sellaphora,5,10,raphid_clade,Eunotia naegelii FD354,Fistulifera solaris
+diploneis,34,37,diploneis_and_up_clade,Diploneis parca AJA141−4,Fistulifera solaris
+frustulia,34,38,diploneis_and_up_clade,Diploneis parca AJA141−4,Fistulifera solaris
+stauroneis,5,10,diploneis_and_up_clade,Diploneis parca AJA141−4,Fistulifera solaris
+mastogloia,32,35,diploneis_and_up_clade,Diploneis parca AJA141−4,Fistulifera solaris
+cocconeis,32,35,diploneis_and_up_clade,Diploneis parca AJA141−4,Fistulifera solaris
+planothidium,34,38,diploneis_and_up_clade,Diploneis parca AJA141−4,Fistulifera solaris
+encyonema,11,23,diploneis_and_up_clade,Diploneis parca AJA141−4,Fistulifera solaris
+cymbella,23,28,diploneis_and_up_clade,Diploneis parca AJA141−4,Fistulifera solaris
+placoneis,23,28,diploneis_and_up_clade,Diploneis parca AJA141−4,Fistulifera solaris
+gomphonema,34,38,diploneis_and_up_clade,Diploneis parca AJA141−4,Fistulifera solaris
+campylodiscus,5,10,diploneis_and_up_clade,Diploneis parca AJA141−4,Fistulifera solaris
+epthemia,5,10,diploneis_and_up_clade,Diploneis parca AJA141−4,Fistulifera solaris
+surirella,11,23,diploneis_and_up_clade,Diploneis parca AJA141−4,Fistulifera solaris
+pinnularia,32,35,diploneis_and_up_clade,Diploneis parca AJA141−4,Fistulifera solaris
+sellaphora,5,10,diploneis_and_up_clade,Diploneis parca AJA141−4,Fistulifera solaris
+cocconeis,32,35,cocconeis_cymbella_clade,Achnanthidium minutissimum FD330,Gomphonema subclavatum AJA090−1
+planothidium,34,38,cocconeis_cymbella_clade,Achnanthidium minutissimum FD330,Gomphonema subclavatum AJA090−1
+encyonema,11,23,cocconeis_cymbella_clade,Achnanthidium minutissimum FD330,Gomphonema subclavatum AJA090−1
+cymbella,23,28,cocconeis_cymbella_clade,Achnanthidium minutissimum FD330,Gomphonema subclavatum AJA090−1
+placoneis,23,28,cocconeis_cymbella_clade,Achnanthidium minutissimum FD330,Gomphonema subclavatum AJA090−1
+gomphonema,34,38,cocconeis_cymbella_clade,Achnanthidium minutissimum FD330,Gomphonema subclavatum AJA090−1
+cocconeis,32,35,cocconeis_clade,Achnanthidium minutissimum FD330,Anorthoneis sp. SZCZ_P_1003
+planothidium,34,38,cocconeis_clade,Achnanthidium minutissimum FD330,Anorthoneis sp. SZCZ_P_1003
+encyonema,11,23,cymbella_clade,Gomphonema subclavatum AJA090−1,Geissleria decussis AJA076−1
+cymbella,23,28,cymbella_clade,Gomphonema subclavatum AJA090−1,Geissleria decussis AJA076−1
+placoneis,23,28,cymbella_clade,Gomphonema subclavatum AJA090−1,Geissleria decussis AJA076−1
+gomphonema,34,38,cymbella_clade,Gomphonema subclavatum AJA090−1,Geissleria decussis AJA076−1
+campylodiscus,5,10,surirella_clade,Epithemia aff. brebissonii AJA109−1,Surirella striatula ECR2AJA−13
+epthemia,5,10,surirella_clade,Epithemia aff. brebissonii AJA109−1,Surirella striatula ECR2AJA−13
+surirella,11,23,surirella_clade,Epithemia aff. brebissonii AJA109−1,Surirella striatula ECR2AJA−13
+pinnularia,32,35,pinnularia_sellaphora_clade,Caloneis linearis AJA131−9,Sellaphora capitata AJA076−8
+sellaphora,5,10,pinnularia_sellaphora_clade,Caloneis linearis AJA131−9,Sellaphora capitata AJA076−8

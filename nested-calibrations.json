@@ -1,0 +1,463 @@
+{
+  "diatom_clade": {
+    "name": "diatom_clade",
+    "type": "multiple",
+    "bracket_taxa": ["Corethron hystrix CCMP308", "Fistulifera solaris"],
+    "archaegladiopsis": {
+      "name": "archaegladiopsis",
+      "type": "single",
+      "bounds": { "lower": 121, "upper": 120 }
+    },
+    "gladiopsis": {
+      "name": "gladiopsis",
+      "type": "single",
+      "bounds": { "lower": 121, "upper": 120 }
+    },
+    "rynchopyxis": {
+      "name": "rynchopyxis",
+      "type": "single",
+      "bounds": { "lower": 121, "upper": 120 }
+    },
+    "basilicostephanus": {
+      "name": "basilicostephanus",
+      "type": "single",
+      "bounds": { "lower": 121, "upper": 120 }
+    },
+    "gladius": {
+      "name": "gladius",
+      "type": "single",
+      "bounds": { "lower": 121, "upper": 120 }
+    },
+    "ancylopyrgus": {
+      "name": "ancylopyrgus",
+      "type": "single",
+      "bounds": { "lower": 121, "upper": 120 }
+    },
+    "dunia": {
+      "name": "dunia",
+      "type": "single",
+      "bounds": { "lower": 121, "upper": 120 }
+    },
+    "kreagra": {
+      "name": "kreagra",
+      "type": "single",
+      "bounds": { "lower": 121, "upper": 120 }
+    },
+    "microorbis": {
+      "name": "microorbis",
+      "type": "single",
+      "bounds": { "lower": 121, "upper": 120 }
+    },
+    "corethron": {
+      "name": "corethron",
+      "type": "single",
+      "bounds": { "lower": 75, "upper": 72 }
+    },
+    "proboscia_paralia_clade": {
+      "name": "proboscia_paralia_clade",
+      "type": "multiple",
+      "bracket_taxa": ["Proboscia alata PI−D3", "Paralia ehrmanii ECT2AJA−128"],
+      "proboscia": {
+        "name": "proboscia",
+        "type": "single",
+        "bounds": { "lower": 83, "upper": 72 }
+      },
+      "paralia_aulacoseira_clade": {
+        "name": "paralia_aulacoseira_clade",
+        "type": "multiple",
+        "bracket_taxa": [
+          "Aulacoseira aff. ambigua AJA048−43",
+          "Paralia ehrmanii ECT2AJA−128"
+        ],
+        "amblypyrgus": {
+          "name": "amblypyrgus",
+          "type": "single",
+          "bounds": { "lower": 113, "upper": 107 }
+        },
+        "archepyrgus": {
+          "name": "archepyrgus",
+          "type": "single",
+          "bounds": { "lower": 113, "upper": 107 }
+        },
+        "hyalodiscus": {
+          "name": "hyalodiscus",
+          "type": "single",
+          "bounds": { "lower": 83, "upper": 80 }
+        },
+        "paralia_clade": {
+          "name": "paralia_clade",
+          "type": "multiple",
+          "bracket_taxa": [
+            "Paralia longispina ECT2AJA−097",
+            "Paralia ehrmanii ECT2AJA−128"
+          ],
+          "paralia": {
+            "name": "paralia",
+            "type": "single",
+            "bounds": { "lower": 95, "upper": 84 }
+          },
+          "praeparalia": {
+            "name": "praeparalia",
+            "type": "single",
+            "bounds": { "lower": 121, "upper": 120 }
+          }
+        }
+      }
+    },
+    "coscinodiscus_rhizosolenia_clade": {
+      "name": "coscinodiscus_rhizosolenia_clade",
+      "type": "multiple",
+      "bracket_taxa": [
+        "Rhizosolenia imbricata ECT2AJA−126",
+        "Coscinodiscus wailesii MMETSP"
+      ],
+      "rhizosolenia": {
+        "name": "rhizosolenia",
+        "type": "single",
+        "bounds": { "lower": 75, "upper": 72 }
+      },
+      "coscinodiscus_actinocyclus_clade": {
+        "name": "coscinodiscus_actinocyclus_clade",
+        "type": "multiple",
+        "bracket_taxa": [
+          "Actinoptychus spendens ECT2AJA−030",
+          "Coscinodiscus wailesii MMETSP"
+        ],
+        "arachnoidiscus": {
+          "name": "arachnoidiscus",
+          "type": "single",
+          "bounds": { "lower": 83, "upper": 72 }
+        },
+        "actinoptychus": {
+          "name": "actinoptychus",
+          "type": "single",
+          "bounds": { "lower": 100, "upper": 94 }
+        },
+        "coscinodiscus_aulacodiscus_clade": {
+          "name": "coscinodiscus_aulacodiscus_clade",
+          "type": "multiple",
+          "bracket_taxa": [
+            "Stellarima microtrias CCMP1471",
+            "Coscinodiscus wailesii MMETSP"
+          ],
+          "aulacodiscus": {
+            "name": "aulacodiscus",
+            "type": "single",
+            "bounds": { "lower": 83, "upper": 80 }
+          },
+          "stellarima": {
+            "name": "stellarima",
+            "type": "single",
+            "bounds": { "lower": 84, "upper": 82 }
+          },
+          "coscinodiscus": {
+            "name": "coscinodiscus",
+            "type": "single",
+            "bounds": { "lower": 86, "upper": 83 }
+          }
+        }
+      }
+    },
+    "mediophytes_pennates_clade": {
+      "name": "mediophytes_pennates_clade",
+      "type": "multiple",
+      "bracket_taxa": ["Ditylum brightwellii Pop1 SS4", "Fistulifera solaris"],
+      "biddulphiella": {
+        "name": "biddulphiella",
+        "type": "single",
+        "bounds": { "lower": 83, "upper": 72 }
+      },
+      "mediophytes_sans_biddulphiella_clade": {
+        "name": "mediophytes_sans_biddulphiella_clade",
+        "type": "multiple",
+        "bracket_taxa": [
+          "Ditylum brightwellii Pop1 SS4",
+          "Odontella aurita 1302−5"
+        ],
+        "amphipentas": {
+          "name": "amphipentas",
+          "type": "single",
+          "bounds": { "lower": 70, "upper": 66 }
+        },
+        "chaetoceros_hemiaulus_clade": {
+          "name": "chaetoceros_hemiaulus_clade",
+          "type": "multiple",
+          "bracket_taxa": [
+            "Hemiaulus sinensis 24i10−1A",
+            "Chaetoceros sp. GSL56"
+          ],
+          "chaetoceros": {
+            "name": "chaetoceros",
+            "type": "single",
+            "bounds": { "lower": 75, "upper": 72 }
+          },
+          "hemiaulus": {
+            "name": "hemiaulus",
+            "type": "single",
+            "bounds": { "lower": 100, "upper": 94 }
+          }
+        },
+        "eunotogramma": {
+          "name": "eunotogramma",
+          "type": "single",
+          "bounds": { "lower": 83, "upper": 80 }
+        },
+        "thalassiosirales_clade": {
+          "name": "thalassiosirales_clade",
+          "type": "multiple",
+          "bracket_taxa": [
+            "Porosira pseudodenticulata CCMP1433",
+            "Thalassiosira punctigera Tpunct2005C2"
+          ],
+          "praethalassiosiropsis": {
+            "name": "praethalassiosiropsis",
+            "type": "single",
+            "bounds": { "lower": 121, "upper": 120 }
+          },
+          "thalassiosiropsis": {
+            "name": "thalassiosiropsis",
+            "type": "single",
+            "bounds": { "lower": 83, "upper": 72 }
+          },
+          "shionodiscus": {
+            "name": "shionodiscus",
+            "type": "single",
+            "bounds": { "lower": 7.2, "upper": 5.3 }
+          },
+          "discostela_cyclostephanos_clade": {
+            "name": "discostela_cyclostephanos_clade",
+            "type": "multiple",
+            "bracket_taxa": [
+              "Cyclostephanos sp. AJA066−13",
+              "Discostella pseudostelligera AJA075−4"
+            ],
+            "cyclostephanos": {
+              "name": "cyclostephanos",
+              "type": "single",
+              "bounds": { "lower": 11.6, "upper": 5.3 }
+            },
+            "stephanodiscus": {
+              "name": "stephanodiscus",
+              "type": "single",
+              "bounds": { "lower": 11.6, "upper": 5.3 }
+            },
+            "discostella": {
+              "name": "discostella",
+              "type": "single",
+              "bounds": { "lower": 16, "upper": 11.6 }
+            }
+          }
+        }
+      },
+      "pennate_clade": {
+        "name": "pennate_clade",
+        "type": "multiple",
+        "bracket_taxa": [
+          "Striatella unipunctata CCMP2910",
+          "Fistulifera solaris"
+        ],
+        "sceptroneis": {
+          "name": "sceptroneis",
+          "type": "single",
+          "bounds": { "lower": 84, "upper": 83 }
+        },
+        "araphid_3_clade": {
+          "name": "araphid_3_clade",
+          "type": "multiple",
+          "bracket_taxa": [
+            "Fragilariforma virescens FD291",
+            "Synedropsis sp. CCMP2745"
+          ],
+          "synedra": {
+            "name": "synedra",
+            "type": "single",
+            "bounds": { "lower": 38, "upper": 34 }
+          },
+          "licmophora": {
+            "name": "licmophora",
+            "type": "single",
+            "bounds": { "lower": 10, "upper": 5 }
+          },
+          "staurosira": {
+            "name": "staurosira",
+            "type": "single",
+            "bounds": { "lower": 38, "upper": 34 }
+          },
+          "diatoma_clade": {
+            "name": "diatoma_clade",
+            "type": "multiple",
+            "bracket_taxa": [
+              "Diatoma tenuis AJA075−18",
+              "Tabellaria flocculosa AJA135−1"
+            ],
+            "diatoma": {
+              "name": "diatoma",
+              "type": "single",
+              "bounds": { "lower": 38, "upper": 34 }
+            },
+            "tetracyclus": {
+              "name": "tetracyclus",
+              "type": "single",
+              "bounds": { "lower": 28, "upper": 23 }
+            },
+            "tabellaria": {
+              "name": "tabellaria",
+              "type": "single",
+              "bounds": { "lower": 10, "upper": 5 }
+            }
+          }
+        },
+        "raphid_clade": {
+          "name": "raphid_clade",
+          "type": "multiple",
+          "bracket_taxa": ["Eunotia naegelii FD354", "Fistulifera solaris"],
+          "lyrella": {
+            "name": "lyrella",
+            "type": "single",
+            "bounds": { "lower": 56, "upper": 56 }
+          },
+          "eunotia": {
+            "name": "eunotia",
+            "type": "single",
+            "bounds": { "lower": 35, "upper": 32 }
+          },
+          "hantzschia": {
+            "name": "hantzschia",
+            "type": "single",
+            "bounds": { "lower": 10, "upper": 5 }
+          },
+          "amblyamphora": {
+            "name": "amblyamphora",
+            "type": "single",
+            "bounds": { "lower": 35, "upper": 32 }
+          },
+          "navicula": {
+            "name": "navicula",
+            "type": "single",
+            "bounds": { "lower": 35, "upper": 32 }
+          },
+          "diploneis_and_up_clade": {
+            "name": "diploneis_and_up_clade",
+            "type": "multiple",
+            "bracket_taxa": ["Diploneis parca AJA141−4", "Fistulifera solaris"],
+            "diploneis": {
+              "name": "diploneis",
+              "type": "single",
+              "bounds": { "lower": 37, "upper": 34 }
+            },
+            "frustulia": {
+              "name": "frustulia",
+              "type": "single",
+              "bounds": { "lower": 38, "upper": 34 }
+            },
+            "stauroneis": {
+              "name": "stauroneis",
+              "type": "single",
+              "bounds": { "lower": 10, "upper": 5 }
+            },
+            "mastogloia": {
+              "name": "mastogloia",
+              "type": "single",
+              "bounds": { "lower": 35, "upper": 32 }
+            },
+            "cocconeis_cymbella_clade": {
+              "name": "cocconeis_cymbella_clade",
+              "type": "multiple",
+              "bracket_taxa": [
+                "Achnanthidium minutissimum FD330",
+                "Gomphonema subclavatum AJA090−1"
+              ],
+              "cocconeis_clade": {
+                "name": "cocconeis_clade",
+                "type": "multiple",
+                "bracket_taxa": [
+                  "Achnanthidium minutissimum FD330",
+                  "Anorthoneis sp. SZCZ_P_1003"
+                ],
+                "cocconeis": {
+                  "name": "cocconeis",
+                  "type": "single",
+                  "bounds": { "lower": 35, "upper": 32 }
+                },
+                "planothidium": {
+                  "name": "planothidium",
+                  "type": "single",
+                  "bounds": { "lower": 38, "upper": 34 }
+                }
+              },
+              "cymbella_clade": {
+                "name": "cymbella_clade",
+                "type": "multiple",
+                "bracket_taxa": [
+                  "Gomphonema subclavatum AJA090−1",
+                  "Geissleria decussis AJA076−1"
+                ],
+                "encyonema": {
+                  "name": "encyonema",
+                  "type": "single",
+                  "bounds": { "lower": 23, "upper": 11 }
+                },
+                "cymbella": {
+                  "name": "cymbella",
+                  "type": "single",
+                  "bounds": { "lower": 28, "upper": 23 }
+                },
+                "placoneis": {
+                  "name": "placoneis",
+                  "type": "single",
+                  "bounds": { "lower": 28, "upper": 23 }
+                },
+                "gomphonema": {
+                  "name": "gomphonema",
+                  "type": "single",
+                  "bounds": { "lower": 38, "upper": 34 }
+                }
+              }
+            },
+            "surirella_clade": {
+              "name": "surirella_clade",
+              "type": "multiple",
+              "bracket_taxa": [
+                "Epithemia aff. brebissonii AJA109−1",
+                "Surirella striatula ECR2AJA−13"
+              ],
+              "campylodiscus": {
+                "name": "campylodiscus",
+                "type": "single",
+                "bounds": { "lower": 10, "upper": 5 }
+              },
+              "epithemia": {
+                "name": "epthemia",
+                "type": "single",
+                "bounds": { "lower": 10, "upper": 5 }
+              },
+              "surirella": {
+                "name": "surirella",
+                "type": "single",
+                "bounds": { "lower": 23, "upper": 11 }
+              }
+            },
+            "pinnularia_sellaphora_clade": {
+              "name": "pinnularia_sellaphora_clade",
+              "type": "multiple",
+              "bracket_taxa": [
+                "Caloneis linearis AJA131−9",
+                "Sellaphora capitata AJA076−8"
+              ],
+              "pinnularia": {
+                "name": "pinnularia",
+                "type": "single",
+                "bounds": { "lower": 35, "upper": 32 }
+              },
+              "sellaphora": {
+                "name": "sellaphora",
+                "type": "single",
+                "bounds": { "lower": 10, "upper": 5 }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
